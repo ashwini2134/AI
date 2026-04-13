@@ -1,0 +1,5 @@
+Date,Description,Debit,Credit,Balance
+2024-01-01,Opening Balance,0,0,50000
+2024-01-02,Salary Credit,0,90000,140000
+2024-01-03,UPI Grocery,2000,0,138000
+2024-01-04,Rent Payment,18000,0,120000
